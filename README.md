@@ -1,9 +1,8 @@
 # Saving Goals
 ## Objectives:
-1. What does it mean to save?
-2. Why do we need to save money?
-3. How can we save money?
-4. Why is it important to know? 
+- Students will understand the meaning and importance of saving.
+- Students will learn different methods of short-term and long-term saving methods.
+- students will learn how to set achievable saving goals for wealth management.
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
@@ -28,7 +27,7 @@
 ### Why do we need to save?
 -
 
-### How can we save money?
+### How can we save money? (How to set savings goals)
 -
 
 ### Why is it important to know?
