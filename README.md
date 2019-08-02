@@ -23,10 +23,13 @@
 
 ## Lesson 3 Breakdown:
 ### What does it mean to save?
+-
 
 ### Why do we need to save?
+-
 
 ### How can we save money?
+-
 
 ### Why is it important to know?
 - This is important to know because,
