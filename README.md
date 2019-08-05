@@ -84,7 +84,7 @@ Students will identify different types of Short- and Long-Term Goals.
 
 ## Learning Activity 2: Influential Spending
 ### Objective: 
-Students will identify different tatics that influence spending.
+Students will be presented with different scenarios and will identify which ones caused influence spending.
 - Commercials
 - Peers
 - Newest Versions/Latest Editions
