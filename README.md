@@ -109,5 +109,5 @@ Students will be presented with different scenarios and will identify which ones
 3. Each correct answer is worth +1000 points.
 4. The only extra talking allowed is during the deliberation moment for the correct answer.
 
-#### Teachers Note
+#### Side Teachers Note:
 -Take notes on official roster for points earned or lost by students. This will be needed for Lesson 5 to have an accurate account of "money earned" by each student.
