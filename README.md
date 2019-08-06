@@ -85,18 +85,26 @@ Students will identify different types of Short- and Long-Term Goals.
 ## Learning Activity 2: Influential Spending
 ### Objective: 
 Students will be presented with different scenarios and will identify which ones caused influence spending.
-- Commercials
-- Peers
-- Newest Versions/Latest Editions
-- Social Media
-- Family/Friends
-- Posters
-- Strangers
-- Emotions
-- Holidays
-- Sales
-- Panic/Emergencies
-- Fact of having money to spend 
+
+1. *Commercials:* Every day that Sue watches her favorite show, a "My Little Pony" commercial comes on. How likely is it that Sue will start to want a "My Little Pony" doll?
+
+2. *Peers:* Joe's best friend always has the latest sneakers. How likely is it that Joe will start to want to have the latest sneakers?
+
+3. *Newest Versions/Latest Editions:* Alice just got the iPhone X last Christmas, but the iPhone XX is supposed to come out this year. There's nothing wrong with Alice's phone as all. How likely is it that Alice will start to want the iPhone XX?
+
+4. *Personalize Ads/Social Media:* Every time Patrick gets on Instagram, he sees a new ad for something that hes expressed interest in. How likely is it that by clicking on the Ad, Patrick will start to want to purchase something?
+
+5. *Holidays:* Thanksgiving is coming up and Black Friday ads have been everywhere: on television, on the internet, and even by word of mouth. How likely is it that the constant ads will cause consumers to want to purchase something on Black Friday?
+
+6. *Panic/Emergencies/Crisis:* The national weather has just scheduled for a Category 5 hurricane to touchdown on a coast near town in 3 days. Billy's and his family are not prepared in case of natural disaster. How likely is it for Billy's family to run to the store and purchase emergency supplies?
+
+7. *Sales:* Ashley's favorite store always has a sale going on either online or in-store. She only intends on purchasing what she needs for the store. How likely is it that the sales and discounts will persuade Ashley into buying more than what she intended and needs to buy?
+
+8. *Available Balance:* Tom was on a budget all week to make sure that he could stretch his money for food and gas. He just got paid today and realizes he made a little bit more money this week than he thought he would. How likely is it that Tom will go and spend his "extra money"?
+
+9. *Family/Friends:* Janet makes a little bit more than most of her family and friends. Whenever her family and friends overspend their money, they feel the need to reach out to Janet because she "makes a lot of money". How likely is it that Janet will spend more money that she plans to?
+
+10. *Emotions/Retail Therapy*: Tyra loves to shop whenever she gets a chance because it makes her "feel good". Today, Tyra's boss made her upset at work and can not wait to get off. How likely is it that Tyra will go shopping when she leaves work today?
 
 ### Strategy:
 1. Students will be split up into 2 teams: The Left Side and The Right Side. (3 teams for larger classes: The Left Side, The Right Side, and The Back). 
