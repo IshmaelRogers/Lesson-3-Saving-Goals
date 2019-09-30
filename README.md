@@ -20,6 +20,8 @@
 - Students will be asked to pack their things while remaining seated.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
+## Lesson 2 Recap:
+
 ## Lesson 3 Breakdown:
 ### What is saving?
 Simply put, saving money means to not spend money. 
@@ -39,6 +41,7 @@ The more money you save, the more you can do.
 
 ### How can we save money?
 Fortunately for you, saving money is easy and you can start saving money today! There are plenty of methods and strategies to saving money and knowing about them will allow you to make responsible decisions with your money.
+
 **Method 1: Set Savings Goals!**
 1. *Identify what you would like to save for.* This could be anything at all, but most importantly, it is something that you would like to have and cannot reasonably afford to purchase at the moment.
 2. *Identify how much you would need to save in order to obtain what is that you are saving for.* 
@@ -118,4 +121,4 @@ Students will be presented with different scenarios and will identify which ones
 4. The only extra talking allowed is during the deliberation moment for the correct answer.
 
 #### Side Teachers Note:
--Take notes on official roster for points earned or lost by students. This will be needed for Lesson 5 to have an accurate account of "money earned" by each student.
+-
