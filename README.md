@@ -28,11 +28,11 @@ So last week we talked about some different types of banks and financial institu
 - This includes deposit accounts (like checking and savings accounts), lending services (like personal loans or business loans), and investment options.
 2. Financial institutions can be public or private. 
 - Meaning, you can drive the street and see one, or go to the grocery store and see one, or pass one on the street that is unrecognizable due to their exclusivity, or selectiveness.
-3. Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
-- Commodity Money- money whose value comes from itself. Example: Gold, Diamonds, and Bitcoin
-- Representative Money- money that represents the value of something else, but has little to no value of its own. Example: Loan or Checks
-- Fiat Money- money that is backed by the government to be considered legal tender. Example: Dollars and Coins.
-4. Last, we talked about different ways to earn money. It is important to take earning money seriously. Everything maybe given right now, but in life you have to earn some things.
+3. There are multiple types of financial institutions. This includes, but is not limited to:
+- Retail/Commercial banks: Which are your everyday banks like Bank of America, Wells Fargo, etc.
+- Credit Unions: Which are similar to retail/commercial banks, but differ by their selection process in which they offer exclusive accounts in different industries. (Such as Aviation, Teaching, and Military)
+- Internet Banks: Which offer similar solutions to retail/commercial banks like card, accounts, and lending services.
+- Savings/Loan Associations: Specialize in savings and loans services which sometimes allows for higher interest receipts and a variety of saving plans. 
 
 ## Lesson 3 Breakdown:
 ### What is saving?
