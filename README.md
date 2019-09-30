@@ -24,11 +24,10 @@
 So last week we talked about some different types of banks and financial institutions,
 - Can anyone tell me something that they remember from our discussion last week? (5 suggestions)
 
-1. Financial institutions primarily provide wealth management services and solutions.
+1. Financial institutions primarily provide essential, or necessary, wealth management services and solutions.
 - This includes deposit accounts (like checking and savings accounts), lending services (like personal loans or business loans), and investment options.
-2. Money is something that is generally accepted to obtain goods and services.
-- In order for money to used to obtain something, there most be an exchange.
-- You give me the money, I'll provide you with goods and services.
+2. Financial institutions can be public or private. 
+- Meaning, you can drive the street and see one, or go to the grocery store and see one, or pass one on the street that is unrecognizable due to their exclusivity, or selectiveness.
 3. Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
 - Commodity Money- money whose value comes from itself. Example: Gold, Diamonds, and Bitcoin
 - Representative Money- money that represents the value of something else, but has little to no value of its own. Example: Loan or Checks
