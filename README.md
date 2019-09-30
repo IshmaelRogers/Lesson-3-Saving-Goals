@@ -21,6 +21,19 @@
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
 ## Lesson 2 Recap:
+So last week we talked about some different types of banks and financial institutions,
+- Can anyone tell me something that they remember from our discussion last week? (5 suggestions)
+
+1. Financial institutions primarily provide wealth management services and solutions.
+- This includes deposit accounts (like checking and savings accounts), lending services (like personal loans or business loans), and investment options.
+2. Money is something that is generally accepted to obtain goods and services.
+- In order for money to used to obtain something, there most be an exchange.
+- You give me the money, I'll provide you with goods and services.
+3. Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
+- Commodity Money- money whose value comes from itself. Example: Gold, Diamonds, and Bitcoin
+- Representative Money- money that represents the value of something else, but has little to no value of its own. Example: Loan or Checks
+- Fiat Money- money that is backed by the government to be considered legal tender. Example: Dollars and Coins.
+4. Last, we talked about different ways to earn money. It is important to take earning money seriously. Everything maybe given right now, but in life you have to earn some things.
 
 ## Lesson 3 Breakdown:
 ### What is saving?
